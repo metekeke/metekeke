@@ -1,16 +1,19 @@
-## Hi there 👋
+## Mete Can Ceylan
+Backend / Cloud Developer
 
-<!--
-**metekeke/metekeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend ve cloud teknolojileriyle çalışan bir yazılım geliştiricisiyim.
+Node.js ve Python ile REST API geliştirme, PostgreSQL ve
+AWS (EC2, S3, RDS) üzerinde uygulama deploy etme konularında deneyim sahibiyim.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Backend: Node.js, Python
+- API: REST, JWT Authentication
+- Database: PostgreSQL, MySQL
+- Cloud: AWS (EC2, S3, RDS, IAM)
+- DevOps: Linux, Docker (basic)
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus Areas
+- Backend API Development
+- Cloud-Based Application Deployment
+- Scalable System Design
